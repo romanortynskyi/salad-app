@@ -1,0 +1,2 @@
+Dec 30, 2021 5:08:15 PM commands.GetAllVegetablesCommand execute
+INFO: Get all vegetables: [Vegetable{ id=10, name=cucumber, calories=930.000000 }, Vegetable{ id=12, name=cucumber, calories=20.000000 }]
